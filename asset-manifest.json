@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hospital-forms/static/css/main.e6c13ad2.css",
+    "main.js": "/hospital-forms/static/js/main.1cc809fe.js",
+    "static/js/453.fd38996f.chunk.js": "/hospital-forms/static/js/453.fd38996f.chunk.js",
+    "index.html": "/hospital-forms/index.html",
+    "main.e6c13ad2.css.map": "/hospital-forms/static/css/main.e6c13ad2.css.map",
+    "main.1cc809fe.js.map": "/hospital-forms/static/js/main.1cc809fe.js.map",
+    "453.fd38996f.chunk.js.map": "/hospital-forms/static/js/453.fd38996f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1cc809fe.js"
+  ]
+}
